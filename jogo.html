@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Familia Addams - Jogo da Memória</title>
+        <link rel="stylesheet" href="jogoMemoria.css">
+        <link rel="stylesheet" type="text/css" href="faddams.css"/>
+        <link rel="icon" href="IMG/icon.jpg">
+    </head>
+    <body>
+        <iframe id="header" src="header.html" ></iframe>
+        <div id="ranking">
+            <h1>Ranking</h1>
+        </div>
+        <main>
+            <div id="jogo">
+                <div id="control">
+                    <input type="button"  class="button_game" value="Reiniciar" onclick="reiniciar()"/> 
+                </div>
+                <div id="cronometro">
+                    <span id="hora">00h</span><span id="minuto">00m</span><span id="segundo">00s</span><br>
+                </div>
+                <div id="pontos">
+                </div>
+                <div id="game">
+                </div>
+            </div>
+            <div id="jogador">
+                <h3>Bem vindo ao jogo da memória da Familia Addams!</h3>
+                <h4>Digite seu nome para começar</h4>
+                <input id="nome-usuario" type="text" placeholder="Digite seu nome">
+                <input type="button" value="Começar" onclick="iniciar()">
+            </div>
+        </main>
+        <script src="JS/jogoMemoria.js"></script>
+    </body>
+</html>
