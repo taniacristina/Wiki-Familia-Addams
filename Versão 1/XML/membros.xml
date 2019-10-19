@@ -1,0 +1,55 @@
+<!-- XML contendo o conteúdo dos membros -->
+<!DOCTYPE MEMBROS SYSTEM "membros.dtd">
+<MEMBROS    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.w3schools.cm/xml membros.xsd" >
+    <!-- Membro 1 -->
+    <MEMBRO>
+        <IMAGEM>IMG/morticia.jpeg</IMAGEM>
+        <NOME>Morticia Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 2 -->
+    <MEMBRO>
+        <IMAGEM>IMG/gomez.jpeg</IMAGEM>
+        <NOME>Gomez Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 3 -->
+    <MEMBRO>
+        <IMAGEM>IMG/wandinha.jpeg</IMAGEM>
+        <NOME>Wandinha Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 4 -->
+    <MEMBRO>
+        <IMAGEM>IMG/feioso.png</IMAGEM>
+        <NOME>Feioso Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 5 -->
+    <MEMBRO>
+        <IMAGEM>IMG/fester.jpeg</IMAGEM>
+        <NOME>Tio Fester Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 6 -->
+    <MEMBRO>
+        <IMAGEM>IMG/primo-coisa.png</IMAGEM>
+        <NOME>Primo Coisa Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 7 -->
+    <MEMBRO>
+        <IMAGEM>IMG/vovo-addams.jpg</IMAGEM>
+        <NOME>Vovó Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 8 -->
+    <MEMBRO>
+        <IMAGEM>IMG/lurch.jpg</IMAGEM>
+        <NOME>Lurch Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 9 -->
+    <MEMBRO>
+        <IMAGEM>IMG/Lumpy.jpg</IMAGEM>
+        <NOME>Lumpy Addams</NOME>
+    </MEMBRO>
+    <!-- Membro 10 -->
+    <MEMBRO>
+        <IMAGEM>IMG/margaret-alford.jpeg</IMAGEM>
+        <NOME>Margaret Alford</NOME>
+    </MEMBRO>
+</MEMBROS>

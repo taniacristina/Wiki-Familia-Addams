@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NOTICIAS SYSTEM "noticias.dtd">
+<NOTICIAS
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.w3schools.cm/xml noticias.xsd"
+>
+    <!-- Noticia 1 -->
+    <NOTICIA>
+        <TITULO>A Família Addams | Novo filme animado terá a voz da Agnes de Meu Malvado Favorito</TITULO>
+        <DATA>30 Ago 2018</DATA>
+        <RESUMO>A atriz Elsie Fisher (Meu Malvado Favorito) foi escalada para se juntar ao elenco vocal do novo filme animado da Família Addams.</RESUMO>
+        <LINK>https://observatoriodocinema.bol.uol.com.br/filmes/2018/08/a-familia-addams-novo-filme-animado-tera-a-voz-da-agnes-de-meu-malvado-favorito</LINK>
+    </NOTICIA>
+    <!-- Noticia 2 -->
+    <NOTICIA>
+        <TITULO>A Família Addams | Animação ganha o primeiro pôster</TITULO>
+        <DATA>29 Mar 2019</DATA>
+        <RESUMO>O IMDB divulgou o primeiro pôster da animação de A Família Addams, e aproveitou para anunciar que o trailer do longa chega em 10 de abril.</RESUMO>
+        <LINK>https://jovemnerd.com.br/nerdbunker/a-familia-addams-animacao-ganha-o-primeiro-poster/</LINK>
+    </NOTICIA>
+    <!-- Noticia 3 -->
+    <NOTICIA>
+        <TITULO>Teaser de A Família Addams traz um feliz Dia das Mães</TITULO>
+        <DATA>10 Mai 2019</DATA>
+        <RESUMO>A Família Addams, que ganhará uma nova animação, usou o Twitter para desejar um feliz Dia das Mães.</RESUMO>
+        <LINK>https://observatoriodocinema.bol.uol.com.br/filmes/2019/05/teaser-de-a-familia-addams-traz-um-feliz-dia-das-maes</LINK>
+    </NOTICIA>
+    <!-- Noticia 4 -->
+    <NOTICIA>
+        <TITULO>A Família Addams | Filme animado ganha cartazes oficiais</TITULO>
+        <DATA>30 Jul 2019</DATA>
+        <RESUMO>
+            Chegando aos cinemas em 11 de outubro, A Família Addams teve uma série de cartazes oficiais divulgados pela MGM, onde temos destaque para os personagens principais da trama.
+        </RESUMO>
+        <LINK>https://ovicio.com.br/a-familia-addams-filme-animado-ganha-cartazes-oficiais/</LINK>
+    </NOTICIA>
+    <!-- Noticia 5 -->
+    <NOTICIA>
+        <TITULO>Cartaz de A Família Addams traz referência a Thanos</TITULO>
+        <DATA>30 Jul 2019</DATA>
+        <RESUMO>
+            A Coisa, que é simplesmente a mãozinha da Família Addams, ganhou uma expressão que está lembrando Thanos, o vilão de Vingadores: Guerra Infinita e Vingadores: Ultimato.
+        </RESUMO>
+        <LINK>https://observatoriodocinema.bol.uol.com.br/filmes/2019/07/cartaz-de-a-familia-addams-traz-referencia-a-thanos-veja</LINK>
+    </NOTICIA>
+    <!-- Noticia 6 -->
+    <NOTICIA>
+        <TITULO>A Família Addams vai ganhar filme de animação</TITULO>
+        <DATA>07 Ago 2019</DATA>
+        <RESUMO>
+            Uma das famílias mais famosas (e sombrias) do mundo vai ganhar 
+            as telonas: a Universal divulgou o trailer da animação de  
+            A Família Addams, que estreia nos cinemas no dia 31 de outubro.
+        </RESUMO>
+        <LINK>https://revistagalileu.globo.com/Cultura/Cinema/noticia/2019/08/familia-addams-vai-ganhar-filme-de-animacao-veja-o-trailer.html</LINK>
+    </NOTICIA>
+    <!-- Noticia 7 -->
+    <NOTICIA>
+        <TITULO>A Família Addams: Wandinha faz amigos (e cria sapos zumbis) em trailer da animação</TITULO>
+        <DATA>07 Ago 2019</DATA>
+        <RESUMO>
+            Com estreia prevista para o dia 31 de outubro, a animação A Família Adams ganhou um trailer
+            dublado. No vídeo, vemos a família mais excêntrica do mundo tendo problemas para se adaptar 
+            a uma nova cidade.
+        </RESUMO>
+        <LINK>https://revistagalileu.globo.com/Cultura/Cinema/noticia/2019/08/familia-addams-vai-ganhar-filme-de-animacao-veja-o-trailer.html</LINK>
+    </NOTICIA>
+    <!-- Noticia 8 -->
+    <NOTICIA>
+        <TITULO>A Família Addams</TITULO>
+        <DATA>08 Ago 2019</DATA>
+        <RESUMO>
+            A Universal Pictures e a MGM liberaram a versão completa do trailer de A Família Addams. 
+            Com isso podemos ver um pouco mais da trama do reboot da franquia, que segue agora como uma animação em CGI.
+        </RESUMO>
+        <LINK>https://trecobox.com.br/2019/08/08/a-familia-addams-trailer-mostra-detalhes-da-trama-do-reboot/</LINK>
+    </NOTICIA>
+    <!-- Noticia 9 -->
+    <NOTICIA>
+        <TITULO>Novo trailer de A Família Addams destaca a sinistra origem de Tropeço</TITULO>
+        <DATA>12 Ago 2019</DATA>
+        <RESUMO>
+            No trailer, Gomez e Morticia estão curtindo um passeio noturno em uma montanha, 
+            quando são surpreendidos por um paciente que havia acabado de escapar de um manicômio.
+        </RESUMO>
+        <LINK>https://observatoriodocinema.bol.uol.com.br/filmes/2019/08/novo-trailer-de-a-familia-addams-destaca-a-sinistra-origem-de-tropeco</LINK>
+    </NOTICIA>
+    <!-- Noticia 10 -->
+    <NOTICIA>
+        <TITULO>Christina Aguilera lançará música para trilha da animação A Família Addams</TITULO>
+        <DATA>10 Set 2019</DATA>
+        <RESUMO>Christina Aguilera, Migos e outros artistas serão responsáveis pela trilha sonora da animação A Família Addams.</RESUMO>
+        <LINK>https://entretenimento.uol.com.br/noticias/redacao/2019/09/10/christina-aguilera-lancara-musica-para-trilha-do-filme-de-a-familia-addams.htm</LINK>
+    </NOTICIA>
+</NOTICIAS>

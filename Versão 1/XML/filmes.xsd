@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="FILMES">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="FILME"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FILME">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="TITULO"/>
+        <xs:element ref="DATA"/>
+        <xs:element ref="IMAGEM"/>
+        <xs:element ref="LEGENDA"/>
+        <xs:element ref="VIDEO"/>
+        <xs:element ref="DESCRICAO"/>
+        <xs:element ref="RESUMO"/>
+        <xs:element ref="PERSONAGENS"/>
+        <xs:element ref="LINK"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TITULO" type="xs:string"/>
+  <xs:element name="DATA" type="xs:string"/>
+  <xs:element name="IMAGEM" type="xs:string"/>
+  <xs:element name="LEGENDA" type="xs:string"/>
+  <xs:element name="VIDEO" type="xs:string"/>
+  <xs:element name="DESCRICAO" type="xs:string"/>
+  <xs:element name="RESUMO" type="xs:string"/>
+  <xs:element name="PERSONAGENS" type="xs:string"/>
+  <xs:element name="LINK" type="xs:anyURI"/>
+</xs:schema>

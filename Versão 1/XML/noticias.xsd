@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="NOTICIAS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="NOTICIA"/>
+      </xs:sequence>
+      <xs:attribute ref="xsi:schemaLocation" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NOTICIA">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="TITULO"/>
+        <xs:element ref="DATA"/>
+        <xs:element ref="RESUMO"/>
+        <xs:element ref="LINK"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TITULO" type="xs:string"/>
+  <xs:element name="DATA" type="xs:string"/>
+  <xs:element name="RESUMO" type="xs:string"/>
+  <xs:element name="LINK" type="xs:anyURI"/>
+</xs:schema>
