@@ -51,6 +51,7 @@ function criaFilmes(xml) {
         video.width = 300;
         video.height = 200;
         video.src = x[i].getElementsByTagName("VIDEO")[0].childNodes[0].nodeValue;
+        video.setAttribute("controls","controls");
         pVideo.appendChild(video);
         pDescricao.innerHTML = x[i].getElementsByTagName("DESCRICAO")[0].childNodes[0].nodeValue
         pDescricao.classList.add("centralizar");
