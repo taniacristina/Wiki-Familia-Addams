@@ -1,0 +1,43 @@
+[
+    {
+        "imagem": "IMG/morticia.jpeg",
+        "nome": "Morticia Addams"
+    },
+    {
+        "imagem": "IMG/gomez.jpeg",
+        "nome": "Gomez Addams"
+    },
+    {
+        "imagem": "IMG/wandinha.jpeg",
+        "nome": "Wandinha Addams"
+    },
+    {
+        "imagem": "IMG/feioso.png<",
+        "nome": "Feioso Addams"
+    },
+    {
+        "imagem": "IMG/fester.jpeg",
+        "nome": "Tio Fester Addams"
+    },
+    {
+        "imagem": "IMG/primo-coisa.png",
+        "nome": "Primo Coisa Addams"
+    },
+    {
+        "imagem": "IMG/vovo-addams.jpg",
+        "nome": "Vovó Addams"
+    },
+    {
+        "imagem": "IMG/lurch.jpg",
+        "nome": "Lurch Addams"
+    },
+    {
+        "imagem": "IMG/Lumpy.jpg",
+        "nome": "Lumpy Addams"
+    },
+    {
+        "imagem": "IMG/margaret-alford.jpeg",
+        "nome": "Margaret Alford"
+    }
+    
+]
