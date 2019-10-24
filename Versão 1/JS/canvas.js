@@ -73,72 +73,72 @@ var canvas2 = document.getElementById("segundo-canvas");
 var ctx2 = canvas2.getContext("2d");
 
 // Desenhando a letra A
-ctx2.moveTo(330,canvas.height);
-ctx2.lineTo(350,0);
+ctx2.moveTo(0,canvas.height);
+ctx2.lineTo(20,0);
 ctx2.stroke();
-ctx2.moveTo(350,0);
-ctx2.lineTo(370,canvas.height);
+ctx2.moveTo(20,0);
+ctx2.lineTo(40,canvas.height);
 ctx2.stroke();
-ctx2.moveTo(340,50);
-ctx2.lineTo(360,50);
+ctx2.moveTo(10,50);
+ctx2.lineTo(30,50);
 ctx2.stroke();
 
 // Desenhando o primeiro D
 ctx2.beginPath();
-ctx2.arc(380,50,40,-1.55, (0.5)*Math.PI);
+ctx2.arc(50,50,40,-1.55, (0.5)*Math.PI);
 ctx2.stroke();
-ctx2.moveTo(380,10);
-ctx2.lineTo(380,(canvas.height - 10));
+ctx2.moveTo(50,10);
+ctx2.lineTo(50,(canvas.height - 10));
 ctx2.stroke();
 
 // Desenhando o segundo D
 ctx2.beginPath();
-ctx2.arc(430,50,40,-1.55, (0.5)*Math.PI);
+ctx2.arc(100,50,40,-1.55, (0.5)*Math.PI);
 ctx2.stroke();
-ctx2.moveTo(430,10);
-ctx2.lineTo(430,(canvas.height - 10));
+ctx2.moveTo(100,10);
+ctx2.lineTo(100,(canvas.height - 10));
 ctx2.stroke();
 
 // Desenhando o segundo A
-ctx2.moveTo(470,canvas.height);
-ctx2.lineTo(490,0);
+ctx2.moveTo(140,canvas.height);
+ctx2.lineTo(170,0);
 ctx2.stroke();
-ctx2.moveTo(490,0);
-ctx2.lineTo(520,canvas.height);
+ctx2.moveTo(170,0);
+ctx2.lineTo(200,canvas.height);
 ctx2.stroke();
-ctx2.moveTo(480,50);
-ctx2.lineTo(505,50);
+ctx2.moveTo(155,50);
+ctx2.lineTo(185,50);
 ctx2.stroke();
 
-// Desenhando o primeiro M
-ctx2.moveTo(530,canvas.height);
-ctx2.lineTo(530,0);
+// Desenhando o M
+ctx2.moveTo(210,canvas.height);
+ctx2.lineTo(210,0);
 ctx2.stroke();
-ctx2.moveTo(530,0);
-ctx2.lineTo(550,(canvas.height - 50));
+ctx2.moveTo(210,0);
+ctx2.lineTo(230,(canvas.height - 50));
 ctx2.stroke();
-ctx2.moveTo(550,(canvas.height - 50));
-ctx2.lineTo(570,0);
+ctx2.moveTo(230,(canvas.height - 50));
+ctx2.lineTo(250,0);
 ctx2.stroke();
-ctx2.moveTo(570,0);
-ctx2.lineTo(570,canvas.height);
+ctx2.moveTo(250,0);
+ctx2.lineTo(250,canvas.height);
 ctx2.stroke();
 
 // Desenhando o S
-ctx2.moveTo(580,10);
-ctx2.lineTo(640,10);
+ctx2.moveTo(270,10);
+ctx2.lineTo(340,10);
 ctx2.stroke();
-ctx2.moveTo(580,10);
-ctx2.lineTo(580,50);
+ctx2.moveTo(270,10);
+ctx2.lineTo(270,50);
 ctx2.stroke();
-ctx2.moveTo(580,50);
-ctx2.lineTo(640,50);
+ctx2.moveTo(270,50);
+ctx2.lineTo(330,50);
 ctx2.stroke();
-ctx2.moveTo(640,50);
-ctx2.lineTo(640,canvas.height - 10);
+ctx2.moveTo(330,50);
+ctx2.lineTo(330,canvas.height - 10);
 ctx2.stroke();
-ctx2.moveTo(640,canvas.height - 10);
-ctx2.lineTo(580,canvas.height - 10);
+ctx2.moveTo(330,canvas.height - 10);
+ctx2.lineTo(270,canvas.height - 10);
 ctx2.stroke();
 
 

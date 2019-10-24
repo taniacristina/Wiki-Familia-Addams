@@ -66,7 +66,7 @@ img {
     height: auto; 
 }
 
-/* Media query para ajuste do titulo */
+/* Media query para ajuste do titulo
 @media(max-width: 680px){
     #segundo-canvas{
         margin-left: -300px;
@@ -93,4 +93,4 @@ img {
     #canvas{
         width: 500px;
     }
-}
+} */
