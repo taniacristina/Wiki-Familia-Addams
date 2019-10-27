@@ -1,6 +1,7 @@
 // Não pode usar métodos prontos como filltext, strokeText, text etc
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
+ctx.strokeStyle = '#7B7777';
 
 /** Desenhando a palavra Familia */
 // Desenhando o F
@@ -71,6 +72,7 @@ ctx.stroke();
 /** Desenhando a palavra Addams */
 var canvas2 = document.getElementById("segundo-canvas");
 var ctx2 = canvas2.getContext("2d");
+ctx2.strokeStyle = '#7B7777';
 
 // Desenhando a letra A
 ctx2.moveTo(0,canvas.height);
