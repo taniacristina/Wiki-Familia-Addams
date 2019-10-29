@@ -51,7 +51,7 @@ function controlePontos (){
 			setCookiesUsuario();
 			setCookiesTempo("tempo",tempo);
 			alert("Jogo concluído com sucesso! Sua porcentagem foi: " + 
-				(corrects/totalCliques)*100 + "%");
+				(corretas/totalCliques)*100 + "%");
 		}
 	}
 
