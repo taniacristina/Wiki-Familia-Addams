@@ -15,8 +15,8 @@ footer{
 
 #header{
     border: none;
-    width: 110%;
-    height: 136%;
+    width: 100%;
+    height: 100%;
 }
 
 #menu ul{
@@ -66,31 +66,8 @@ img {
     height: auto; 
 }
 
-/* Media query para ajuste do titulo
-@media(max-width: 680px){
-    #segundo-canvas{
-        margin-left: -300px;
-    }
-}
-
-@media(max-width: 360px){
-    #segundo-canvas{
-        margin-left: -330px;
-    }
-
+@media (max-width: 420px) {
     #header {
-        height: 150%;
+        height: 120%;
     }
 }
-
-@media(max-width: 420px){
-    #segundo-canvas{
-        margin-left: -340px;
-    }
-}
-
-@media(min-width: 1024px){
-    #canvas{
-        width: 500px;
-    }
-} */

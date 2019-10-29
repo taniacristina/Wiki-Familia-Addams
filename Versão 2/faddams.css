@@ -15,8 +15,8 @@ footer{
 
 #header{
     border: none;
-    width: 110%;
-    height: 136%;
+    width: 100%;
+    height: 100%;
 }
 
 #menu ul{
@@ -64,4 +64,10 @@ table{
 img { 
     max-width: 100%;
     height: auto; 
+}
+
+@media (max-width: 420px) {
+    #header {
+        height: 120%;
+    }
 }
